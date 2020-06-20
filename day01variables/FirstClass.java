@@ -20,7 +20,7 @@ public class FirstClass {
 
 		System.out.print("A");
 		System.out.println("B");
-		System.out.print("C");
+		System.out.print("cC");
 		System.out.println("D");
                  System.out.print("Ad");
 	}

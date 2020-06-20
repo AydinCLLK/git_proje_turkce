@@ -19,10 +19,11 @@ public class FirstClass {
 		// Ekran ciktisini tahmin etme
 
 		System.out.print("A");
-		System.out.println("B");
+		
 		System.out.print("C");
 		System.out.println("D");
-                 System.out.print("Ad");
+        System.out.print("Ad");
+        System.out.println("bB");
 	}
 
 }
